@@ -1,8 +1,12 @@
 # Tetiana Kononenko
 
-## Junior Frontend Developer | React
+## 🔥 Frontend Developer | React
 
-Welcome to my GitHub profile!
+🌿 Almost 2 years ago, I started my journey in web development, and since then I have been continuously improving through hands-on practice and working on real-world projects.
+
+💻 I have experience in developing and maintaining responsive web applications, improving UI/UX, implementing new features, and optimizing existing code – from layout implementation and API integration to refactoring and enhancing user experience.
+
+✨ In my work, I focus on clean, scalable code, a well-structured project architecture, and modern development practices.
 
 ---
 
@@ -30,7 +34,7 @@ Welcome to my GitHub profile!
 
 **API & Tools**
 
-![REST APIs](https://img.shields.io/badge/REST%20APIs-1C1C19.svg?logo=swagger&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST%20API-1C1C19.svg?logo=swagger&logoColor=FFFFFF)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?logo=axios&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=FFFFFF)
 
